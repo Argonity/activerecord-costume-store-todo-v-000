@@ -17,3 +17,4 @@ class CreateCostumes < ActiveRecord::Migration[4.2]
       t.string :image_url
   end
 end
+end
